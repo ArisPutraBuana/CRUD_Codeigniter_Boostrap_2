@@ -1,0 +1,3 @@
+1). CRUD sederhana
+2). Menggunakan Boostrap ( secara Online )
+3). Menggunakan Query Builder di Codeigniter
